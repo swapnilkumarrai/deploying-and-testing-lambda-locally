@@ -1,0 +1,14 @@
+service: My-Python-Lambda
+
+frameworkVersion: '3'
+
+provider:
+  name: aws
+  runtime: python3.8
+
+  stage: dev
+  region: ap-south-1
+
+functions:
+  hello:
+    handler: handler.hello
