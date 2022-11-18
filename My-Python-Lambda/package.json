@@ -1,0 +1,28 @@
+{
+  "name": "my-python-lambda",
+  "version": "1.0.0",
+  "description": "deploying and testing lambda locally using serverless framework",
+  "main": "index.js",
+  "dependencies": {
+    "serverless-python-requirements": "^6.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swapnilkumarrai07/deploying-and-testing-lambda-locally.git"
+  },
+  "keywords": [
+    "package.json",
+    "serverless",
+    "lambda"
+  ],
+  "author": "swapnil kumar rai swapnil.kumar@entropiktech.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swapnilkumarrai07/deploying-and-testing-lambda-locally/issues"
+  },
+  "homepage": "https://github.com/swapnilkumarrai07/deploying-and-testing-lambda-locally#readme"
+}
